@@ -1,0 +1,1 @@
+This code only work for newer versions of node because C++ bindings have changed.
